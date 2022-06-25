@@ -7,6 +7,7 @@ By using my code, I'm expecting you to already have [NodeJS](https://nodejs.org/
 - Have at least a Twitter Developer Account with the [Essential](https://developer.twitter.com/en/portal/petition/essential/basic-info) Access (minimum package).
 - Read the guide [here](https://developer.twitter.com/en/docs/projects/overview) on how to start and create a project.
 - Clone or download the repository first, open your editor and input the following command.
+- With just the Essential Access, if you run it for every minute for a day you would parse 1440 tweets. The maximum you can parse is 500K per month (then it will reset). If you run one instance for one account you will parse as much as 43200 tweets per month. 
 ```
 npm install
 ```
