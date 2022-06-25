@@ -43,4 +43,4 @@ If you want to support me, you can donate here.
 
 - [Buy Me a Coffee](buymeacoffee.com/westorm)
 ### Issues and Feedback
-- Coming Soon!
+- Please let me know if you want anything to change! Thank you.
