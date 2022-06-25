@@ -37,7 +37,7 @@ I'm waiting for the Elevated Access. If / When I'll have the access to it, I wil
 ![TwitterWImg](https://user-images.githubusercontent.com/78883935/175773155-22cfbeb1-979a-410e-bc76-1d1d9635e806.PNG)
 
 ### Author
-- Westorm - [Twitter](https://twitter.com/bottingoursite) 
+- Westorm - [Twitter](https://twitter.com/bottingoursite) | Dean Martin - [Twitter](https://twitter.com/deanmartinang)
 
 If you want to support me, you can donate here.
 
