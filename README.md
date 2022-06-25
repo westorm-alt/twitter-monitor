@@ -13,18 +13,20 @@ In the `config.json` file you will need the following inputs:
 - Bearer Token
 - Discord Webhook 
 - Twitter Username that you want to monitor (you can run one username per instance)
-- Delay in `ms`
+- Delay in ms
 
 If you don't know how webhooks works, you can find a guide [here](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
 ### Features 
-The program will automatically fetch the following data by standard if you have the Essential package:
+The program will automatically fetch the following data by standard if you have the [Essential](https://developer.twitter.com/en/portal/petition/essential/basic-info) package:
 - Tweet Handler 
 - Tweet Time 
 - Tweet Content and Link
 
-If you have instead the Elevated package it will retrieve more information such as:
-- Profile Pic
-- More to come...
+### Author
+- Westorm - [Twitter](https://twitter.com/bottingoursite) 
 
+If you want to support me, you can donate here.
+
+- [Buy Me a Coffee](buymeacoffee.com/westorm)
 ### Issues and Feedback
 - Coming Soon!
