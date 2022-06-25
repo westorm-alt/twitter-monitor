@@ -1,5 +1,5 @@
 # Twitter Sniper Monitor
-A simple and open-sourced monitor made for Twitter to check any update from any account you want with discord webhook integration.
+A simple and open-sourced monitor made for Twitter using their API V2 to check any update from any account you want with discord webhook integration.
 ## Getting Started and Usage
 The following guide will help you to install a copy of the project with ease. 
 ### Prerequisites
