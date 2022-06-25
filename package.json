@@ -1,0 +1,23 @@
+{
+  "name": "twitter-sniper-monitor",
+  "version": "1.0.0",
+  "description": "Twitter Sniper Monitor | @westorm-alt",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "github": "https://github.com/westorm-alt/twitter-monitor",
+  "type": "module",
+  "author": "Westorm",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "console-stamp": "^3.0.6",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.21",
+    "needle": "^3.1.0",
+    "tls": "0.0.1",
+    "user-agents": "^1.0.1053"
+  }
+}

@@ -1,0 +1,7 @@
+
+{
+    "webhook": "Your webhook link.",
+    "username": "The username you want to monitor.",
+    "bearer_token": "Input your bearer token here.",
+    "ms": "Delay in milliseconds. 60s = 60 000ms."
+}
