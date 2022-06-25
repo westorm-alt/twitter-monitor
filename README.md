@@ -18,11 +18,23 @@ In the `config.json` file you will need the following inputs:
 - Delay in ms
 
 If you don't know how webhooks works, you can find a guide [here](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
+
+### Usage
+To start the script just simply use the following command in the terminal.
+```
+node index.js
+```
+
 ### Features 
 The program will automatically fetch the following data by standard if you have the Essential package:
 - Tweet Handler 
 - Tweet Time 
 - Tweet Content and Link
+
+I'm waiting for the Elevated Access. If / When I'll have the access to it, I will code more stuff I've been having in mind.
+
+### Example Webhook
+![TwitterWImg](https://user-images.githubusercontent.com/78883935/175773155-22cfbeb1-979a-410e-bc76-1d1d9635e806.PNG)
 
 ### Author
 - Westorm - [Twitter](https://twitter.com/bottingoursite) 
