@@ -41,6 +41,6 @@ I'm waiting for the Elevated Access. If / When I'll have the access to it, I wil
 
 If you want to support me, you can donate here.
 
-- [Buy Me a Coffee](buymeacoffee.com/westorm)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/westorm)
 ### Issues and Feedback
 - Please let me know if you want anything to change! Open a request for any issues or feedback.
